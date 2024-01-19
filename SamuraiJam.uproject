@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "GoeaTechEval",
+			"Name": "SamuraiJam",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
